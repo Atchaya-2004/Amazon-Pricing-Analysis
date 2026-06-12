@@ -1,6 +1,5 @@
 # Amazon-Pricing-Analysis
 Amazon Pricing Analysis Dashboard using SQL and Power BI
-# Amazon Pricing Analysis Dashboard
 
 ## Project Overview
 This project analyzes Amazon product pricing and ratings data using SQL and Power BI.
@@ -19,8 +18,7 @@ This project analyzes Amazon product pricing and ratings data using SQL and Powe
 
 ## Files
 - dashboard_1.pbix
-- project-1.sql
-- dashboard_screenshot.png
+- project_1_amazon_sql
+- project_1_amazon_csv
 
-## Dashboard Preview
-(Upload dashboard screenshot here)
+
